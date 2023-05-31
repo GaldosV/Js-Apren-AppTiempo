@@ -2,8 +2,15 @@
  Una App en Js para mirar el tiempo
 
 
- Esta api mira el tiempo de tu geolocalización y te dice donde estas y la temperatura actual junto con el tiempo que hace , pulsando la pantalla cambia de celsius a farenheit .
 
- Desgraciadamente la API de la que conseguia la información a dejado de funcionar al ser adquirida por google.
+
+
+ Esta API mira el tiempo de tu geolocalización y te dice donde estás y la temperatura actual junto con el tiempo que hace , pulsando la pantalla cambia de celsius a Fahrenheit .
+
+
+
+ Desgraciadamente la API de la que conseguía la información ha dejado de funcionar al ser adquirida por Google.
+
  https://support.apple.com/en-us/HT213526
- Así que no seguire actualizando la miniaplicación.
+
+ Así que no seguiré actualizando la miniaplicación.
